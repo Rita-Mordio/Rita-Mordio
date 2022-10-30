@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&height=200&color=gradient&customColorList=18&text=Rita%20Mordio&fontAlign=70&rotate=13&fontAlignY=25&desc=Demian%20Developer&descAlign=70.&descAlignY=44)
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=FFFFFF"/></a>
+
+# Skills
+<kbd>
+<a href="https://ko.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=FFFFFF"/></a>
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=FFFFFF"/></a>
 
@@ -18,4 +21,4 @@
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=FFFFFF"/></a>
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=FFFFFF"/></a>
-
+</kbd>
