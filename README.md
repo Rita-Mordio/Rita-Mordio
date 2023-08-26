@@ -12,6 +12,9 @@
 <a href="https://recoiljs.org/ko/" target="_blank"><img src="https://img.shields.io/badge/Recoil-358EF1?style=flat&logo=Recoil&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://ko.redux.js.org/" target="_blank"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;
+
+<br />
+
 <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://lodash.com/" target="_blank"><img src="https://img.shields.io/badge/Lodash-3492FF?style=flat&logo=Lodash&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;
