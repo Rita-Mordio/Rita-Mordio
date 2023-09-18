@@ -36,7 +36,10 @@
 &nbsp;&nbsp;&nbsp;<a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=FFFFFF"/></a>
 &nbsp;&nbsp;&nbsp;<a href="https://slack.com/intl/ko-kr/" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=FFFFFF"/></a>
 &nbsp;&nbsp;&nbsp;<a href="https://www.notion.so/ko-kr" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=FFFFFF"/></a >
-&nbsp;&nbsp;&nbsp;<a href="https://obsidian.md" target="_blank"><img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=Obsidian&logoColor=FFFFFF" /><img /></a>
+
+<br />
+
+<a href="https://obsidian.md" target="_blank"><img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=Obsidian&logoColor=FFFFFF" /><img /></a>
 
 
 
