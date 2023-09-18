@@ -27,7 +27,17 @@
 <a href="https://www.jenkins.io/" target="_blank"><img src="https://img.shields.io/badge/jenkins-D24939?style=flat&logo=jenkins&logoColor=FFFFFF"/></a>
 
 # Tools
-<a href="https://www.jetbrains.com/ko-kr/idea/" target="_blank"><img src="https://img.shields.io/badge/IntelliJ IDEA-EF2D5E?style=flat&logo=IntelliJ IDEA&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.jetbrains.com/ko-kr/webstorm/" target="_blank"><img src="https://img.shields.io/badge/WebStorm-00D564?style=flat&logo=WebStorm&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;<a href="https://swagger.io/" target="_blank"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.sourcetreeapp.com/" target="_blank"><img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.atlassian.com/ko/software/jira" target="_blank"><img src="https://img.shields.io/badge/Jira Software-0052CC?style=flat&logo=Jira Software&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;<a href="https://slack.com/intl/ko-kr/" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.notion.so/ko-kr" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=FFFFFF"/></a><img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=Obsidian&logoColor=FFFFFF"/></a>
+<a href="https://www.jetbrains.com/ko-kr/idea/" target="_blank"><img src="https://img.shields.io/badge/IntelliJ IDEA-EF2D5E?style=flat&logo=IntelliJ IDEA&logoColor=FFFFFF"/></a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.jetbrains.com/ko-kr/webstorm/" target="_blank"><img src="https://img.shields.io/badge/WebStorm-00D564?style=flat&logo=WebStorm&logoColor=FFFFFF"/></a>
+&nbsp;&nbsp;&nbsp;<a href="https://swagger.io/" target="_blank"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=FFFFFF"/></a>
+&nbsp;&nbsp;&nbsp;<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=FFFFFF"/></a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.sourcetreeapp.com/" target="_blank"><img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=FFFFFF"/></a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.atlassian.com/ko/software/jira" target="_blank"><img src="https://img.shields.io/badge/Jira Software-0052CC?style=flat&logo=Jira Software&logoColor=FFFFFF"/></a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=FFFFFF"/></a>
+&nbsp;&nbsp;&nbsp;<a href="https://slack.com/intl/ko-kr/" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=FFFFFF"/></a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.notion.so/ko-kr" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=FFFFFF"/></a >
+&nbsp;&nbsp;&nbsp;<a href="https://obsidian.md" target="_blank"><img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=Obsidian&logoColor=FFFFFF" /><img /></a>
+
 
 
 
