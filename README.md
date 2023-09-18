@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&height=200&color=gradient&customColorList=18&text=Rita%20Mordio&fontAlign=70&rotate=13&fontAlignY=25&desc=Demian%20Developer&descAlign=70.&descAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=slice&height=200&color=gradient&customColorList=18&text=Rita%20Mordio&fontAlign=70&rotate=13&fontAlignY=25&desc=Demian%20Developer&descAlign=70.&descAlignY=56)
 
 
 # Skills
