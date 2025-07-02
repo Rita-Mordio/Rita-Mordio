@@ -19,8 +19,8 @@
 <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://lodash.com/" target="_blank"><img src="https://img.shields.io/badge/Lodash-3492FF?style=flat&logo=Lodash&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=FFFFFF"/></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon-EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon-S3-569A31?style=flat&logo=Amazon S3&logoColor=FFFFFF"/></a>
 
 
 # CI/CD
