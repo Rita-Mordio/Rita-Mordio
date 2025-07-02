@@ -8,13 +8,13 @@
 <a href="https://sass-lang.com/" target="_blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=FFFFFF"/>&nbsp;&nbsp;&nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;
+
+<br />
+
 <a href="https://ko.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React%20Native-0088CC?style=flat&logo=React&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://recoiljs.org/ko/" target="_blank"><img src="https://img.shields.io/badge/Recoil-358EF1?style=flat&logo=Recoil&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/reactquery-FF4154?style=flat&logo=Redux&logoColor=FFFFFF"/>&nbsp;&nbsp;&nbsp;
-
-<br />
-
 <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://turborepo.com/" target="_blank"><img src="https://img.shields.io/badge/turborepo-FF1E56?style=flat&logo=Next.js&logoColor=FFFFFF"/></a>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=FFFFFF"/>&nbsp;&nbsp;&nbsp;
